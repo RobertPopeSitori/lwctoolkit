@@ -1,4 +1,14 @@
-# Salesforce DX Project: Next Steps
+# RDP LWC Toolkit
+
+To get started, you may want to clone this repository.  Will will want to download Visual Studio Code, and make sure you have the Salesforce Bundle installed.
+
+Create a developer sandbox at developer.salesforce.org if you need an environment, and then authenticate your salesforce org with Visual Studio Code.
+
+If you have any ideas on how to improve this documentation please let me know.
+
+~Robert Pope
+
+## Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
